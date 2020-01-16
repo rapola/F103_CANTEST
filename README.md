@@ -1,2 +1,0 @@
-# F103_CANTEST
-NBW_V00 Based In/Out PCB
